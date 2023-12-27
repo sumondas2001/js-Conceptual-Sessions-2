@@ -71,3 +71,4 @@ const myinfo ={
 }
 
 console.log(information(myinfo));
+console.log(information(myinfo));
